@@ -1,0 +1,197 @@
+{
+  "dataOne": [
+    {
+      "id": 0,
+      "title": "Home",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2011/03/modern-living-room-gray-accents.jpg",
+      "description": "Webpack is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+    },
+    {
+      "id": 1,
+      "title": "Experiences",
+      "image": "https://planeterra.org/wp-content/uploads/2016/07/23788734116_07d8dd0294_o-1-1024x683.jpg",
+      "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes."
+    },
+    {
+      "id": 2,
+      "title": "Restaurants",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/03/Stainless-steel-backsplash-design.jpg",
+      "description": "Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test."
+    }
+  ],
+  "HomesAroundYou": [
+    {
+      "id": 0,
+      "category": "ENTIRE HOUSE - OSTINE",
+      "title": "I Sette Conitrullo Edera",
+      "price": "5,121",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2011/03/modern-living-room-gray-accents.jpg",
+      "ratings": "169",
+      "description": "",
+      "tag": "Superhost",
+      "specification": {
+        "bedroom": "2",
+        "barhroom": "2",
+        "area": "1250",
+        "adress": "F-106, Sector 56, Noida"
+      }
+    },
+    {
+      "id": 1,
+      "category": "VERIFIED UMALAS",
+      "title": "Tropical Canggu Villa on Ricefield near the mountains of Himalaya",
+      "price": "9,121",
+      "image": "https://planeterra.org/wp-content/uploads/2016/07/23788734116_07d8dd0294_o-1-1024x683.jpg",
+      "ratings": "141",
+      "description": "",
+      "tag": "Superhost",
+      "specification": {
+        "bedroom": "2",
+        "barhroom": "1",
+        "area": "950",
+        "adress": "401 E 60th St. NYC"
+      }
+    },
+    {
+      "id": 2,
+      "category": "CAVE - CHANIA",
+      "title": "Luxurious stone villa in Crete",
+      "price": "6,228",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/03/Stainless-steel-backsplash-design.jpg",
+      "ratings": "143",
+      "description": "",
+      "tag": "Superhost",
+      "specification": {
+        "bedroom": "3",
+        "barhroom": "3",
+        "area": "1560",
+        "adress": "11 7th avenue, Gaur City, Noida" 
+      }
+    },
+    {
+      "id": 3,
+      "category": "ENTIRE FLAT - PORTO",
+      "title": "Porto 33 Porto Penthouse",
+      "price": "7,612",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/04/Small-apartment-decor-by-Tsai-Design-Studio.jpg",
+      "ratings": "512",
+      "description": "",
+      "tag": "",
+      "specification": {
+        "bedroom": "4",
+        "barhroom": "3",
+        "area": "1670",
+        "adress": "101 F Sector 16C Noida Extension"
+      }
+    }
+  ],
+  "dataTwo": [
+    {
+      "id": 0,
+      "category": "1,912 TREEHOUSES",
+      "title": "Get some perspective",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/04/Small-apartment-decor-by-Tsai-Design-Studio.jpg",
+      "description": "Take your trip to new heights with these one-of-a-kind treehouses."
+    },
+    {
+      "id": 1,
+      "category": "9,167 BOATS",
+      "title": "Sail the high seas",
+      "image": "https://images.pexels.com/photos/296242/pexels-photo-296242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Follow in the footsteps of adventurers past with boats of all shapes and sizes."
+    },
+    {
+      "id": 2,
+      "category": "1,829 YURTS",
+      "title": "Made just for glamping",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/04/The-Grey-Interiors-Loft-interior-by-Alexey-Rozenberg-kitchen-with-extended-table.jpg",
+      "description": "Embrace a mix of indoor comfort and the great outdoors."
+    },
+    {
+      "id": 3,
+      "category": "2,000 + HOMES",
+      "title": "React-Redux",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/04/Small-apartment-decor-by-Tsai-Design-Studio.jpg",
+      "description": "React-Redux is the official set of bindings between the React and Redux libraries. With this library you can keep your views and data in sync."
+    },
+    {
+      "id": 4,
+      "category": "2,000 + HOMES",
+      "title": "Lodash",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/04/Googles-new-L.A.-office-by-ZGF-architects-in-California-800x533.jpg",
+      "description": "A modern JavaScript utility library delivering modularity, performance, & extras. Lodash is released under the MIT license & supports modern environments."
+    },
+    {
+      "id": 5,
+      "category": "2,000 + HOMES",
+      "title": "Redux-Thunk",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/04/Small-apartment-decor-by-Tsai-Design-Studio.jpg",
+      "description": "Redux Thunk middleware allows you to write action creators that return a function instead of an action. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met."
+    },
+    {
+      "id": 6,
+      "category": "2,000 + HOMES",
+      "title": "ESLint",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/04/Small-apartment-decor-by-Tsai-Design-Studio.jpg",
+      "description": "ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn't adhere to certain style guidelines."
+    },
+    {
+      "id": 7,
+      "category": "2,000 + HOMES",
+      "title": "Babel",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/04/Small-apartment-decor-by-Tsai-Design-Studio.jpg",
+      "description": "Babel has support for the latest version of JavaScript through syntax transformers. These plugins allow you to use new syntax, right now without waiting for browser support."
+    },
+    {
+      "id": 8,
+      "category": "2,000 + HOMES",
+      "title": "Axios",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/04/Small-apartment-decor-by-Tsai-Design-Studio.jpg",
+      "description": "Promise based HTTP client for the browser and node.js. With Axios, you can make XMLHttpRequests from the browser or Node with the full Promise Api."
+    },
+
+    {
+      "id": 9,
+      "category": "2,000 + HOMES",
+      "title": "Redux-Saga",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/04/Small-apartment-decor-by-Tsai-Design-Studio.jpg",
+      "description": "redux-saga is a library that aims to make application side effects (i.e. asynchronous things like data fetching and impure things like accessing the browser cache) easier to manage, more efficient to execute, easy to test, and better at handling failures."
+    },
+    {
+      "id": 10,
+      "category": "2,000 + HOMES",
+      "title": "ApiSauce",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/04/Small-apartment-decor-by-Tsai-Design-Studio.jpg",
+      "description": "Babel has support for the latest version of JavaScript through syntax transformers. These plugins allow you to use new syntax, right now without waiting for browser support."
+    },
+    {
+      "id": 11,
+      "category": "2,000 + HOMES",
+      "title": "Redux-Sauce",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2019/04/Small-apartment-decor-by-Tsai-Design-Studio.jpg",
+      "description": "Provides a few tools for working with Redux-based codebases. Currently includes: createReducer - declutter reducers for readability and testing createTypes - DRY define your types object from a string createActions - builds your Action Types and Action Creators at the same time resettableReducer - allows your reducers to be reset"
+    }
+  ],
+  "ComingSoonURLs": [
+    {
+      "id": 0,
+      "image": "https://t3.ftcdn.net/jpg/01/94/23/84/500_F_194238426_ukcNHwrWq6RaFCf8RpQH4PgZX4c7QlXA.jpg"
+    },
+    {
+      "id": 1,
+      "image": "http://www.colprop.com/wp-content/uploads/comingsoon.png"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.dribbble.com/users/255/screenshots/6434227/sw_2x.png"
+    },
+    {
+      "id": 3,
+      "image": "https://nu-glaze.co.za/wp-content/uploads/2018/08/coming-soon.png"
+    },
+    {
+      "id": 4,
+      "image": "https://i.pinimg.com/564x/5d/1b/bd/5d1bbd8496c4bac28ce7ba55d149e332.jpg"
+    }
+  ]
+}

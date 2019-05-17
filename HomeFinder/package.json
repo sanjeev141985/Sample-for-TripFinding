@@ -1,0 +1,41 @@
+{
+  "name": "HomeFinder",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "postinstall": "patch-package"
+  },
+  "dependencies": {
+    "firebase": "^5.9.2",
+    "lodash": "^4.17.11",
+    "patch-package": "^6.1.2",
+    "react": "16.8.3",
+    "react-native": "^0.57.8",
+    "react-native-animated-styles": "^0.4.2",
+    "react-native-cached-image": "^1.4.3",
+    "react-native-element": "^1.2.1",
+    "react-native-elements": "^1.1.0",
+    "react-native-fbsdk": "^0.8.0",
+    "react-native-linear-gradient": "^2.5.4",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-swiper": "^1.5.14",
+    "react-native-vector-icons": "^6.4.2",
+    "react-redux": "^5.1.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/runtime": "^7.4.2",
+    "babel-jest": "24.7.1",
+    "jest": "24.7.1",
+    "metro-react-native-babel-preset": "0.53.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

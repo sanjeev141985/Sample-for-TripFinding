@@ -1,5 +1,6 @@
 # Sample-for-TripFinding
-This is a prototype sample code for trip finding app.
+This is a prototype sample code for trip finding app complete in Reactnative.
+
 ![Demo](FPRZ1354.GIF)
 ![Demo1](WVND6583.GIF)
 ![Demo2](TROI8628.GIF)
